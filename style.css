@@ -411,7 +411,6 @@ footer {
     margin-top: 40px;
 }
 
-/* Media Queries for Responsive Design */
 @media (max-width: 1024px) {
     .portfolio-link a {
         margin-left: 50px;
